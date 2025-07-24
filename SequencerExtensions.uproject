@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D30BC7A4-41E7-977E-1AAF-CE8F6862AC5A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SequencerExtensions",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
